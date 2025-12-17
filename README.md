@@ -1,4 +1,4 @@
-# Mendelian Randomization Report: LTL and MS Progression
+# Mendelian Randomization Report: LTL and MS Progression 
 
 [![Journal](https://img.shields.io/badge/Journal-MSARD-4c72b0)](https://www.sciencedirect.com/journal/multiple-sclerosis-and-related-disorders)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.msard.2025.106277-blue)](https://doi.org/10.1016/j.msard.2025.106277)
